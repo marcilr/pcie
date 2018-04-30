@@ -1,0 +1,61 @@
+pcie.txt
+Created Thu Feb 12 10:15:37 AKST 2009
+by Raymond E. Marcil
+
+
+
+PCI Express (PCIe) is the successor to pci.
+
+
+PCI Express (Peripheral Component Interconnect Express), officially
+abbreviated as PCIe, is a computer expansion card standard designed to
+replace the older PCI, PCI-X, and AGP standards.  Introduced by Intel in
+2004, PCIe (or PCI-E, as it is commonly called) is the latest standard 
+for expansion cards that is available on mainstream personal computers
+[citation needed]
+
+PCI Express is used in consumer, server, and industrial applications, both
+as a motherboard-level interconnect (to link motherboard-mounted peripherals)
+and as an expansion card interface for add-in boards. A key difference between
+PCIe and earlier PC buses is a topology based on point-to-point serial links,
+rather than a shared parallel bus architecture.
+
+The PCIe electrical interface is also used in a variety of other standards,
+most notably the ExpressCard laptop expansion card interface.
+--wikipedia.org/
+
+
+PCIe slots
+==========
+A connection between any two PCIe devices is known as a "link", and is built up from a 
+collection of 1 or more lanes. All devices must minimally support single-lane (x1) link. 
+Devices may optionally support wider links composed of 2, 4, 8, 12, 16, or 32 lanes. This 
+allows for very good compatibility in two ways:
+
+* a PCIe card will physically fit (and work correctly) in any slot that is at least as 
+large as it is (e.g. an x1 sized card will work in any sized slot);
+* a slot of a large physical size (e.g. x16) can be wired electrically with fewer lanes 
+(e.g. x1, x4, or x8) as long as it provides the power and ground connections required by the 
+larger physical slot size.
+
+The Asus ??? Motherboard has an x4 and x16 PCIe slots.
+
+
+Filelist
+========
+AOC-USAS-L8i/    The Supermicro AOC-USAS-L8i *was* a fine looking 8-port 
+                 3Gb/s SATA II x8 PCIe card with 2x SFF-8087 connectors.
+                 However, turns out it is not PCIe compatible.  Only
+                 support Supermicro UIO slots.  Confirmed via email on 
+                 Feb 12, 2009.
+                 
+
+Links
+=====
+PCI Express
+Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/PCI_Express
+
+PCIe (PCI Express) SATA Controller Cards
+http://www.satasite.com/sata-controllers.htm
+
