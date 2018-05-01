@@ -10,3 +10,8 @@ manifest
 
 pcie.txt
   PCI Express (PCIe) is the successor to pci.
+
+sunix/
+  SUNIX
+  Has Type-C USB2311C PCIe x1 adapter
+  http://www.sunix.com/en/product_page.php?id=1
