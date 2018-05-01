@@ -5,6 +5,8 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+manifest
+  Manifest for resync application
+
 pcie.txt
   PCI Express (PCIe) is the successor to pci.
-
