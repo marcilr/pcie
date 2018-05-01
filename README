@@ -10,3 +10,8 @@ manifest
 
 pcie.txt
   PCI Express (PCIe) is the successor to pci.
+
+sunix/
+  Has USB2311C Type-C pcie card
+  installed in covellite March 26, 2018
+  http://www.sunix.com/en/product_detail.php?cid=2&kid=34&gid=103&pid=1790
