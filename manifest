@@ -1,6 +1,11 @@
 # manifest
+<<<<<<< HEAD
 # Created Tue May  1 11:05:09 AKDT 2018
 # Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+=======
+# Created Tue May  1 10:25:01 AKDT 2018
+# Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+>>>>>>> e181791b8f33890fa280ba3a9f09ae1843ee2122
 #
 # Manifest for resync application
 #

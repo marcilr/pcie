@@ -12,6 +12,6 @@ pcie.txt
   PCI Express (PCIe) is the successor to pci.
 
 sunix/
-  SUNIX
-  Has Type-C USB2311C PCIe x1 adapter
-  http://www.sunix.com/en/product_page.php?id=1
+  Has USB2311C Type-C pcie card
+  Installed in covellite March 26, 2018
+  http://www.sunix.com/en/product_detail.php?cid=2&kid=34&gid=103&pid=1790
